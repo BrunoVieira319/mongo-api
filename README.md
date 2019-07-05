@@ -2,7 +2,7 @@
 
 Para rodar:
 ```
-./gradlew run
+./gradlew bootRun
 ```
 Endpoints:
 
